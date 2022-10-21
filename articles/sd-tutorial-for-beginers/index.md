@@ -40,8 +40,7 @@ Stable Diffusion可以根据文本提示生成一幅画， 但并不是所有文
 
 > <cite>white futuristic mage house covered in plants, hanging vines, floating inside an enormous spherical chamber, cinematic, epic, dramatic lighting, cinematic view, epic sky, detailed, concept art, low angle, high detail, warm lighting, volumetric, godrays, vivid, beautiful, trending on artstation, by jordan grimmer, huge scene, grass, art greg rutkowski</cite> 
 
-这是我从网上摘抄的一段提示词，你可以拿来试验一下生成图片的效果。 注意你可以随手加一些beautiful, elegant, masterpiece，trending on art station之类空泛的夸奖词语。 如果你愿意，你可以把AI想象成一个会迷失在表扬里的孩子，你夸得越狠，它就表现得越好。 当然从机器学习的角度来说，这是由于训练数据中优质的图片往往和正面的评价相关联，因此提示语中出现正面的评价，也让模型在生成过程中给优质的图片以更大的参考权重。
-
+这是我从网上摘抄的一段效果不错的典型提示词，你会发现这段话还是比较长的，你可以拿来验证一下生成图片的效果。 注意你可以随手加一些 beautiful, elegant, masterpiece，trending on art station之类空泛的夸奖词语。 如果你愿意，你可以把AI想象成一个会迷失在表扬里的孩子，你夸得越狠，它就表现得越好。 当然从机器学习的角度来说，这是由于训练数据中优质的图片往往和正面的评价相关联，因此提示语中出现正面的评价，也让模型在生成过程中给优质的图片以更大的参考权重。
 
 当然提示词过长也有点浪费，比如说不要超过大约80个单词，多出来词语会被计算机截断舍弃。
 
