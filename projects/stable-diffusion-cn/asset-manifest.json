@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.ca248e9c.css",
-    "main.js": "./static/js/main.73008a52.js",
+    "main.js": "./static/js/main.5fa6f497.js",
     "static/js/787.b52190a6.chunk.js": "./static/js/787.b52190a6.chunk.js",
     "static/media/gallery02.jpg": "./static/media/gallery02.3e8f52d8b8eb2500d77c.jpg",
     "static/media/gallery01.jpg": "./static/media/gallery01.df9a72305c15176a992a.jpg",
@@ -15,16 +15,16 @@
     "static/media/prompt.jpg": "./static/media/prompt.6a513c0ddec6c960ac49.jpg",
     "static/media/photo01.jpg": "./static/media/photo01.c7f34b8ac0873e161901.jpg",
     "static/media/tools.jpg": "./static/media/tools.83d2eeec89b692c05b11.jpg",
+    "static/media/card01.jpg": "./static/media/card01.95687bb7eccddd304fe1.jpg",
     "static/media/teach.jpg": "./static/media/teach.4ecebba309daa642be43.jpg",
     "static/media/weixin_qrcode.jpg": "./static/media/weixin_qrcode.0a4986775c862c2f44be.jpg",
-    "static/media/card01.jpg": "./static/media/card01.d5ada5cbae73c047b524.jpg",
     "index.html": "./index.html",
     "main.ca248e9c.css.map": "./static/css/main.ca248e9c.css.map",
-    "main.73008a52.js.map": "./static/js/main.73008a52.js.map",
+    "main.5fa6f497.js.map": "./static/js/main.5fa6f497.js.map",
     "787.b52190a6.chunk.js.map": "./static/js/787.b52190a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca248e9c.css",
-    "static/js/main.73008a52.js"
+    "static/js/main.5fa6f497.js"
   ]
 }

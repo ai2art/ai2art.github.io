@@ -4,7 +4,11 @@ title:  Stable Diffusion 入门教程
 
 ## 快速上手
 
-视频教程
+<a href="https://www.bilibili.com/video/BV17D4y1k7Bh/" target="_blank"> 先凑合看这个吧 </a>
+
+(暂未完成，先凑合看上面的简单教程的 >_< … )
+
+
 
 ## 文本工程(Prompt Engineering)
 
@@ -40,7 +44,7 @@ Stable Diffusion可以根据文本提示生成一幅画， 但并不是所有文
 
 > <cite>white futuristic mage house covered in plants, hanging vines, floating inside an enormous spherical chamber, cinematic, epic, dramatic lighting, cinematic view, epic sky, detailed, concept art, low angle, high detail, warm lighting, volumetric, godrays, vivid, beautiful, trending on artstation, by jordan grimmer, huge scene, grass, art greg rutkowski</cite> 
 
-这是我从网上摘抄的一段效果不错的典型提示词，你会发现这段话还是比较长的，你可以拿来验证一下生成图片的效果。 注意你可以随手加一些 beautiful, elegant, masterpiece，trending on art station之类空泛的夸奖词语。 如果你愿意，你可以把AI想象成一个会迷失在表扬里的孩子，你夸得越狠，它就表现得越好。 当然从机器学习的角度来说，这是由于训练数据中优质的图片往往和正面的评价相关联，因此提示语中出现正面的评价，也让模型在生成过程中给优质的图片以更大的参考权重。
+这是我从网上摘抄的一段效果不错的典型提示词，你会发现这段话还是比较长的，你可以拿来验证一下生成图片的效果。 注意你可以随手加一些 beautiful, elegant, masterpiece，trending on art station之类空泛的夸奖词语。 如果你愿意，你可以把AI想象成一个会迷失在表扬里的小盆友，你夸得越狠，它就表现得越好。 当然从机器学习的角度来说，这是由于训练数据中优质的图片往往和正面的评价相关联，因此提示语中出现正面的评价，也让模型在生成过程中给优质的图片以更大的参考权重。
 
 当然提示词过长也有点浪费，比如说不要超过大约80个单词，多出来词语会被计算机截断舍弃。
 
@@ -48,46 +52,64 @@ Stable Diffusion可以根据文本提示生成一幅画， 但并不是所有文
 
 > **最佳实践四： 提示语中添加艺术家的名字，这对生成图片的画质、风格影响很大。**
 
-
-例子：
-
-....
-
-这里有一个艺术家风格类似的表格，你可以拿去参考。
-
-....
-
-当然这个表格远没有涵盖所有艺术家。 同时“萝卜青菜，各有所爱”，你需要通过自己不断的摸索试验，才能真正找到适合自己的艺术家提示词，毕竟这是一门“玄学”！
-
-补充知识点一： 提示语可以“碎片化”，不需要像人说话一样是完整的句子。 
-
-对于模型而言，提示语中词语的重要性，一般来说远大于这些词语间的语法逻辑关系，或者说模型一般来说无法精确理解一句话的含义，因此精确的语法逻辑顺序意义不大，因此一般来说，你可以用逗号的形式，把重要的描述性词语分割、罗列出来即可。 例如：
-
-.....
-
-这种分词描述的一个好处是你可以在词的粒度上描述图画，或者调整前后顺序，而不必拘泥于一定要是完整的句子。 当然，如果你用 .... 这样完整的表述方式也不会有人拦着，对计算机来说可能二者差别不大。
+例如： by DaVinci, in the style of Van Gogh, by Greg Rutkowski and Tyler Edlin 等都是在gallery网站上经常能看到的提示语。 
 
 
-补充知识点二： 提示语中词语的顺序对出图效果有影响，最重要的概念放在前面。
 
-一般来说越靠前的词语在生成图片时，权重越高，例如你想强调这幅画符合那种画风，你可以把 .... 这些词尽量放前面，例如：
+我一般常按照如下方式来组织提示语，仅供参考：
 
-.....
 
-而如果你想强调画中的元素，例如 ... 你可以这样写：
 
-.....
+| 画面内容描述       | 艺术家描述         | 其他补充修饰        |
+|-------------------|-------------------|--------------------|
+| a painting of a cute black cat  walk on a cyberpunk street | by Greg Rutkowski and Tyler Edlin | ultra detailed, digital art,  octane render, 4k, micro details... |
 
-再比如说这样描述后，你发现画出来画风太暗了，你可以把dark 尽量放到后一点：
+<br/>
+这里还有一个艺术家风格的表格，你可以拿去参考，你可以有选择的根据画面内容和期待的风格选择艺术家。
+<br/>
 
-或者把dark 直接去掉。 
+<table>
+  <thead>
+    <th>风景地貌</th>
+    <th>插画人物</th>
+    <th>经典名家</th>
+    <th>科幻未来</th>
+  </thead>
+  <tbody>
+    <td>Tyler Edlin,Mark Simonetti</td>
+    <td>Justin Gerard, Wayne Barlowe, Victor Adame Minguez, Jesper Ejsing, Gerald Brom, Greg Rutkowski</td>
+    <td>DaVinci, Pablo Picasso, Van Gogh, Winslow Homer, M.C. Escher</td>
+    <td>Jim Burns, John Harris, Dean Ellis, H.R. Giger</td>
+  </tbody> 
+</table>
+
+<br/>
+这个表格远没有涵盖所有艺术家(已收录的艺术家完整列表 和 补充修饰词，详见<a href="/projects/stable-diffusion-cn/#tools" target="_blank">qq群</a>的群文件)。 
+
+当然“萝卜青菜，各有所爱”，你需要通过自己不断的摸索试验，才能真正找到适合自己的艺术家提示词，毕竟这是一门“玄学”！
+
+> **补充知识点一： 提示语可以“分词”化，不需要像人说话一样是完整的句子。**
+
+对于模型而言，提示语中词语本身的重要性，一般来说远大于这些词语间的语法逻辑关系，或者说模型无法精确理解一句话的含义，因此精确的语法逻辑顺序意义不大，因此你可以用逗号的形式，把重要的描述性词语分割、罗列出来即可。 例如：
+
+> <cite>a portrait of wizard, yellow hat, crystal ball, by artgerm and greg rutkowski and alphonse mucha, anthropomorphic, deep focus, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp, illustration, hearthstone</cite>
+
+这种分词描述的一个好处是你可以在词的粒度上描述图画，或者调整前后顺序，而不必拘泥于一定要是完整的句子。 当然，如果你用 <cite>a portrait of wizard wearing a yellow hat and holding a crystal ball</cite> 这样完整的表述方式也不会有人拦着，对计算机来说可能二者差别不大。
+
+
+> **补充知识点二： 提示语中词语的顺序对出图效果有影响，最重要的概念放在前面。**
+
+一般来说越靠前的词语在生成图片时，权重越高，例如你想强调这幅画符合那种画风，你可以把艺术家之类的描述尽量放前面，例如：
+
+> <cite>masterpiece of artgerm and greg rutkowski, hearthstone, fantasy, intricate, elegant, a portrait of wizard, yellow hat, crystal ball, anthropomorphic, deep focus, highly detailed, digital painting, artstation, concept art, matte, sharp, illustration</cite>
+
+而如果你想强调画中“帽子”的元素，你可以这样写：
+
+> <cite> a yellow wizard hat, crystal ball, by greg rutkowski, terrifying, horror, poorly lit，anthropomorphic, deep focus, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, matte, sharp, illustration, hearthstone</cite>
+
+再比如说这样描述后，你发现画出来画风太阴暗了，你可以把terrifying, horror, poorly lit这些词尽量放到后面一点，或者把直接去掉。 
 
 AI也希望你讲话有重点，开门见山！ 或者你觉得一个概念至关重要，你甚至可以重复三遍，变着方儿让AI get到你想表达的意思。
-
-.....
-
-greg rutkowski, dark, surreal scary swamp, terrifying, horror, poorly lit
-
 
 ## 参数理解
 
@@ -97,7 +119,7 @@ greg rutkowski, dark, surreal scary swamp, terrifying, horror, poorly lit
 
 ### CFG （Classifier Free Guidance）
 
-这是一个有点“科幻”的参数。 它决定了AI要严格遵守提示语的指令到什么程度。 一头是： 小子别顾虑太多，提示语你参考着来就行，我就随便说说，主要靠你自由发挥，我信你！ 令一头是：嗨AI，你要严格按照提示语来画画，不要调皮，我是你爹全听我的（不然，我就拔插头）！ 
+这是一个有点“科幻”的参数。 它决定了AI要严格遵守提示语的指令到什么程度。 一头是： 小子别顾虑太多，提示语你参考着来就行，我就随便说说，主要靠你自由发挥，我信你！ 另一头是：嗨AI，你要严格按照提示语来画画，不要调皮，我是你爹全听我的（不然，我就拔插头）！ 
 
 根据CFG取值大小，我们大致上，可以这么分类：
 
@@ -107,7 +129,7 @@ greg rutkowski, dark, surreal scary swamp, terrifying, horror, poorly lit
 - CFG > 16: AI，我说你做，别废话……
 
 
-没有严格的标准说，你该把CFG的值选在哪个档位，或者说这取决于你期望AI怎样看待你的提示语。 比如说：你没怎么用心筛选提示语，对它的出图效果没什么信心，你可能应该选择一个 CFG<6的值。 但如果你对自己提示语的效果信心爆棚，你完全可以先选一个CFG>12 的值试试看。
+究竟该把CFG的值选在哪个档位没有严格的标准，或者说这取决于你期望AI怎样看待你的提示语。 比如说：你没怎么用心筛选提示语，对它的出图效果没什么信心，你可能应该选择一个 CFG<6的值。 但如果你对自己提示语的效果信心爆棚，你完全可以先选一个CFG>12 的值先试试看。
 
 一般来说，完全放任AI自由发挥和不给任何自由都不是好的选择（吃的米饭越多，你会越来越发现中庸之道确实有它的道理。）所以我们往往会选择 7< CFG < 11 这个档位作为CFG的默认值。 这个区间是AI和人类彼此合作的档位，一般来说是更好的选择。 在我看来，这个档位也恰好反映了目前AI技术的发展程度，我们正处于一个AI和人类各取所长，才能实现最佳表现的时代。
 
