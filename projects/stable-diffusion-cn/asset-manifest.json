@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.ac340440.css",
-    "main.js": "./static/js/main.a45a6ec2.js",
+    "main.js": "./static/js/main.1acfc554.js",
     "static/js/787.b52190a6.chunk.js": "./static/js/787.b52190a6.chunk.js",
     "static/media/gallery02.jpg": "./static/media/gallery02.3e8f52d8b8eb2500d77c.jpg",
     "static/media/gallery01.jpg": "./static/media/gallery01.df9a72305c15176a992a.jpg",
@@ -17,13 +17,14 @@
     "static/media/card01.jpg": "./static/media/card01.95687bb7eccddd304fe1.jpg",
     "static/media/teach.jpg": "./static/media/teach.4ecebba309daa642be43.jpg",
     "static/media/weixin_qrcode.jpg": "./static/media/weixin_qrcode.0a4986775c862c2f44be.jpg",
+    "static/media/qq_qrcode.png": "./static/media/qq_qrcode.4c221b8f37c48dd7b952.png",
     "index.html": "./index.html",
     "main.ac340440.css.map": "./static/css/main.ac340440.css.map",
-    "main.a45a6ec2.js.map": "./static/js/main.a45a6ec2.js.map",
+    "main.1acfc554.js.map": "./static/js/main.1acfc554.js.map",
     "787.b52190a6.chunk.js.map": "./static/js/787.b52190a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac340440.css",
-    "static/js/main.a45a6ec2.js"
+    "static/js/main.1acfc554.js"
   ]
 }
