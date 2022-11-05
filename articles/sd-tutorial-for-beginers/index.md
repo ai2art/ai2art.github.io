@@ -4,11 +4,10 @@ title:  Stable Diffusion 入门教程
 
 ## 快速上手
 
-<a href="https://www.bilibili.com/video/BV17D4y1k7Bh/" target="_blank"> 先凑合看这个吧 </a>
-
-(暂未完成，先凑合看上面的简单教程的 >_< … )
+如果你有Nvidia显卡（显存不小于4G左右），可以下载<a href="http://www.stablediffusion.cc/#tools" target="_blank">免费AI创作软件（自带简单使用教程）</a>
 
 
+(待完成……)
 
 ## 文本工程(Prompt Engineering)
 
@@ -164,5 +163,4 @@ AI也希望你讲话有重点，开门见山！ 或者你觉得一个概念至�
 
 如需转载，请联系作者本人，并注明出处。
 
-## 参考资料
-
+## 参考资料 

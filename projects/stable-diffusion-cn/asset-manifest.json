@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.ca248e9c.css",
-    "main.js": "./static/js/main.5fa6f497.js",
+    "main.css": "./static/css/main.ac340440.css",
+    "main.js": "./static/js/main.a45a6ec2.js",
     "static/js/787.b52190a6.chunk.js": "./static/js/787.b52190a6.chunk.js",
     "static/media/gallery02.jpg": "./static/media/gallery02.3e8f52d8b8eb2500d77c.jpg",
     "static/media/gallery01.jpg": "./static/media/gallery01.df9a72305c15176a992a.jpg",
@@ -11,7 +11,6 @@
     "static/media/gallery06.jpg": "./static/media/gallery06.de1125ccc7e57db05311.jpg",
     "static/media/gallery03.jpg": "./static/media/gallery03.9936cb2558389042cbca.jpg",
     "static/media/bbs.jpg": "./static/media/bbs.d15b68a18a192de4109e.jpg",
-    "static/media/logo.png": "./static/media/logo.905b0d74469dea729ac0.png",
     "static/media/prompt.jpg": "./static/media/prompt.6a513c0ddec6c960ac49.jpg",
     "static/media/photo01.jpg": "./static/media/photo01.c7f34b8ac0873e161901.jpg",
     "static/media/tools.jpg": "./static/media/tools.83d2eeec89b692c05b11.jpg",
@@ -19,12 +18,12 @@
     "static/media/teach.jpg": "./static/media/teach.4ecebba309daa642be43.jpg",
     "static/media/weixin_qrcode.jpg": "./static/media/weixin_qrcode.0a4986775c862c2f44be.jpg",
     "index.html": "./index.html",
-    "main.ca248e9c.css.map": "./static/css/main.ca248e9c.css.map",
-    "main.5fa6f497.js.map": "./static/js/main.5fa6f497.js.map",
+    "main.ac340440.css.map": "./static/css/main.ac340440.css.map",
+    "main.a45a6ec2.js.map": "./static/js/main.a45a6ec2.js.map",
     "787.b52190a6.chunk.js.map": "./static/js/787.b52190a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca248e9c.css",
-    "static/js/main.5fa6f497.js"
+    "static/css/main.ac340440.css",
+    "static/js/main.a45a6ec2.js"
   ]
 }
