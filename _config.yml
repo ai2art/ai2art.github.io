@@ -33,6 +33,7 @@ github_username:  ai2art
 theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
+  - jekyll-jupyter-notebook
 
 
 defaults:
