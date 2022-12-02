@@ -1,0 +1,51 @@
+---
+title: notes on pytorch
+---
+
+### basic concepts:
+
+class CustomDataset(Dataset):
+  def __getitem__(self, idx)
+
+dataset = CustomDataset(...)
+dataloader = DataLoader(dataset, batch_size=64, shuffle=True)
+
+class model(nn.Module):
+  def forward
+
+model.to(device)
+
+optimizer = torch.optim.SGD(model.parameters(), lr=1e-3)
+pred=model(X)
+loss_fn = nn.CrossEntropyLoss()
+loss=loss_fn(pred,y)
+
+loss.backward() #calc dirative
+
+optimizer.step() 
+
+torch.save(model.state_dict(), "model.pth")
+model.load_state_dict(torch.load("model.pth"))
+
+### grad API
+
+https://pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html
+
+w = torch.randn(5, 3, requires_grad=True) or
+
+w = torch.randn(5, 3)
+w.requires_grad_(True)
+
+every nodes has t.grad_fn
+leaf nodes has w.grad
+
+We can only obtain the grad properties for the leaf nodes of the computational graph, which have requires_grad property set to True. For all other nodes in our graph, gradients will not be available.
+
+
+There are reasons you might want to disable gradient tracking:
+To mark some parameters in your neural network as frozen parameters. This is a very common scenario for finetuning a pretrained network
+
+To speed up computations when you are only doing forward pass, because computations on tensors that do not track gradients would be more efficient.
+
+
+By default, all tensors with requires_grad=True are tracking their computational history and support gradient computation. However, there are some cases when we do not need to do that, for example, when we have trained the model and just want to apply it to some input data, i.e. we only want to do forward computations through the network. We can stop tracking computations by surrounding our computation code with torch.no_grad() block:
