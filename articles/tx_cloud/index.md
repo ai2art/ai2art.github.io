@@ -8,11 +8,12 @@ title:  腾讯云最佳实践笔记
     ClientAliveInterval 30 
     ClientAliveCountMax 60
 
+    systemctl restart ssh
+  
   （2）启用root （optional）
     sudo passwd root 
 
   （3）添加 ssh key （略）
-
 
 ### 2. 挂载云盘
     （1）腾讯云盘的申请（略）
@@ -68,3 +69,4 @@ title:  腾讯云最佳实践笔记
     ./cache
     /var/log/
     /var/log/journal
+
