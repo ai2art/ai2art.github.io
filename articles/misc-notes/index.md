@@ -1,5 +1,6 @@
 ---
 title: 随笔
+draft: true
 ---
 
 # {{ page.title }}
