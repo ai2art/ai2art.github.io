@@ -22,3 +22,28 @@ python -m pdb xxxx.py
 - l: list the context of current line (default 11 lines)
 - h: show help message
 - q: quit the debugger
+
+```
+breakpoint() //auto break at specified line 
+```
+
+#### project for colorizing
+
+some collection
+https://github.com/MarkMoHR/Awesome-Image-Colorization
+
+CLIP colorizing
+https://github.com/luckyhzt/unicolor
+
+Image Hint
+https://github.com/KIMGEONUNG/BigColor
+
+facing makeup
+https://github.com/VinAIResearch/CPM
+
+
+color transfer opencv
+https://github.com/chia56028/Color-Transfer-between-Images
+
+
+
