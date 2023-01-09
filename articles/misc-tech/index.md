@@ -46,4 +46,12 @@ color transfer opencv
 https://github.com/chia56028/Color-Transfer-between-Images
 
 
+lasso tool
 
+https://www.losingfight.com/blog/2007/08/28/how-to-implement-a-magic-wand-tool/
+
+https://github.com/stanislaushimovolos/Intelligent-Scissors
+
+https://stackoverflow.com/questions/38985755/imitating-the-magic-wand-photoshop-tool-in-opencv
+
+https://stackoverflow.com/questions/54554762/quick-selection-tool-algorithm
