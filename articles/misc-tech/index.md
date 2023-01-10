@@ -55,3 +55,5 @@ https://github.com/stanislaushimovolos/Intelligent-Scissors
 https://stackoverflow.com/questions/38985755/imitating-the-magic-wand-photoshop-tool-in-opencv
 
 https://stackoverflow.com/questions/54554762/quick-selection-tool-algorithm
+
+https://github.com/karlew/canvas-flood-fill
