@@ -26,6 +26,11 @@ python -m pdb xxxx.py
 ```
 breakpoint() //auto break at specified line 
 ```
+#### pycharm cheatsheet
+
+ctrl + shift + i : show definiton, Enter to go there
+ctrl + alt + <-  : move cursor to prev pos
+
 
 #### project for colorizing
 
