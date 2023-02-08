@@ -32,6 +32,16 @@ ctrl + shift + i : show definiton, Enter to go there
 ctrl + alt + <-  : move cursor to prev pos
 
 
+#### linux memo
+
+```
+
+sudo netstat -tulpn | grep 80
+
+ps aux | grep ....
+
+```
+
 #### project for colorizing
 
 some collection
