@@ -63,16 +63,16 @@ $${\rm out}_i= W [{\rm out}_i^{(0)}, {\rm out}_i^{(1)},\cdots]$$
 
 即concat 再加一个线性变换作为最终输出
 
-6) 补充4: Residual
+6) 补充4: Residual 和 Norm
 
-当输入 $x_i$ 和 输出${\rm out}_i$ 维度相同时，我们可以引入残差结构，另外会进一步引入Norm结构，即
+当输入 $x_i$ 和 输出${\rm out}_i$ 维度相同时，我们可以引入残差结构，另外一般会进一步引入Norm结构，即
 
 
 $${\rm out}_i= {\rm Norm}(x_i + W [{\rm out}_i^{(0)}, {\rm out}_i^{(1)},\cdots])$$
 
 7) 补充5： 对于encoder-decoder structure，encoder结构如前文所述，一般decoder的Value vector 和 Key Vector 由encoder的输出来定义，
 
-对于类似gpt的decode only的结构，Value vector 和 Key Vector 还是由前面引入的K，V 矩阵来实现，和encoder的唯一不同之处只是最后的输出层，接了一个全连通的 softmax 输出下一个词在vocabulary中的分布概率。
+对于类似gpt的decoder only的结构，Value vector 和 Key Vector 还是由前面引入的K，V 矩阵来实现，和encoder的唯一不同之处只是最后的输出层，接了一个全连通的 softmax 输出下一个词在vocabulary中的分布概率。
 
 8) gpt 的整个流程可以这么简单理解：
 
@@ -82,4 +82,4 @@ $${\rm out}_i= {\rm Norm}(x_i + W [{\rm out}_i^{(0)}, {\rm out}_i^{(1)},\cdots])
 
 (3) 每经过一层 transformer (记为 $t$)，这组矢量映射为：$\left(x_0^{(t-1)}, x_1^{(t-1)},\cdots x_{M-1}^{(t-1)}\right)\rightarrow \left(x_0^{(t)}, x_1^{(t)},\cdots x_{M-1}^{(t)}\right)$
 
-(4) 最后一层$T$, 将$M$个词的输出concat 拉平作为输入（拉平后的向量维度是 $M*d_v$），然后接一个输出向量维数为 $\|V\|$ 的全连通层，再softmax，得到下一个词在vocabulary上的概率分布，这个概率分布可以通过交叉熵来训练
+(4) 最后一层$T$, 将$M$个词的输出concat 拉平作为输入（拉平后的向量维度是 $M*d_v$），然后接一个输出向量维数为 $\|V\|$ (词表大小)的全连通层，再softmax，得到下一个词在vocabulary上的概率分布，这个概率分布可以通过交叉熵来训练
