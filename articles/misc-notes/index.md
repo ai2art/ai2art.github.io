@@ -319,6 +319,8 @@ autoGPT 的思路也许可以有另一种升级形式。 目前的 autoGPT 只�
 shi总是要吃的，谁让你荒废了那么多时间，谁让你这么不上道，
 但千万不要因为你是只苍蝇，就躺在shi堆里懒得挣扎。 
 
+Eat, eat them all, eat just like you enjoy the meal, you are just crawling through another 500 yards of shit, that's all. Dont make any excuses for yourself.
+
 ### 克服行动恐惧
 
 我们常选择性健忘的一件事是“人是非理性的”（另一件事是“人生是有终点的”），人和猴子一样都是没有完全进化的，这不涉及对错，但如果忘记这个事实，就会因为贪图安逸或者恐惧困难而做出错误的决策，绝对的自由、随性而为只会让人走向毁灭，或者走向颓败，人需要给自己设限。“随心所欲不逾矩”，这句话正确得像废话，“虽千万人吾往矣”，这句话错误得像傻叉，但都是人性困境中不得不采取的对策。 不要跟自己内耗，你要做得只是警惕自欺，保持理性，争分夺秒像机器一样去执行，情绪常常是人类行动的障碍，也是自欺的理由，“if you need inspiring words don't do it”.
