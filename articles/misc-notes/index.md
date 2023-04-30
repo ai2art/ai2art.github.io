@@ -332,3 +332,7 @@ I am supposed to be a scholar, but every step I move seems make me away from wha
 ### 4.30
 
 火车上想起小时候的事情，小时候上学最焦虑的事情是写作业，也因为不写作业挨过不少体罚，倒不是学业多重，只是因为抗拒自己的意识被作业占据，每次被迫写作业前，我似乎经常会默念，在接下来得半小时里，你将忘记自己，你将被作业“占领”…现在回想起来竟感到非常震惊。我资质鲁钝不算出众，但这件事却似乎有些特殊…又或者也没什么特殊的，只是人们这种梦呓般的经历原本就不具备可交流性……但一个啥也不懂的小学生为什么会因为忘记自己这种虚妄的概念而感到恐惧，这似乎很难理解…这种恐惧感也一直影响着我，社恐，工作恐惧（至少是不感兴趣的工作）。人的大脑内存是非常有限的，我们原本应该习惯于在执行一个具体任务时，暂时忘记远景目标，忘记抽象的自我意识。要去搬砖的时候，就不该看风景，这是再浅显不过的道理，但我好像一直适应得不是很好…这也许是大脑中的程序bug吧。但物竞天择，不适应也得适应…
+
+### Hallucination
+
+The Hallucination of GPT is marvelous, just like once I believed I found the reason why I wasted so many years in a strange dream. But I would rather live in the dream if I could choose.
