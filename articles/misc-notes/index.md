@@ -336,3 +336,7 @@ I am supposed to be a scholar, but every step I move seems make me away from wha
 ### 5.1 Hallucination
 
 The Hallucination of GPT is marvelous, just like once I believed I found the reason why I wasted so many years in a strange dream. But I would rather live in the dream if I could choose.
+
+### 5.4
+
+有一种说法叫“乱拳打死老师傅”，这种说法有一定合理性。比如说，有的人习惯于按部就班的做事，系统性、有章法、步步为营的行事（“老师傅”），这种人适合搞研究，并且可能成为一代宗师，像 Hilbert 一样的巨匠。 但这种人未必适合竞争激烈、混沌不清的Context，比如搞企业经营，引领技术风潮。 在Chaos的环境下，机会主义、投机分子更容易生存下来，因为chaos环境下，条理性地思考和行动风格有可能是作茧自缚，而敏捷的行动力才是生存下来的关键。 taste成为了不必要的主观负担，所以会导致“乱拳打死老师傅”的现象。
