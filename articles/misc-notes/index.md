@@ -345,5 +345,8 @@ The Hallucination of GPT is marvelous, just like once I believed I found the rea
 
 如果我们把GPT看作一种编程的环境，prompt engineering 看作是“编程”，那么编程的历史发展有一个显著特征：编程语法变得越来越简单，越来越“白盒”，极限形式即“自然语言”； 编程的环境变得越来越“黑盒”，极限形式即LLM。
 
+
+### 5.5
+
 过于有礼貌，往往可能表示这个人是内心孤独的，因为礼貌的另一层含义是距离感。
 
