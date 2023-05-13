@@ -354,3 +354,24 @@ The Hallucination of GPT is marvelous, just like once I believed I found the rea
 ### 5.7
 
 人们对于未来的判断能力是极其有限的，哪怕像Hinton一样的学者，我们也很难判断他的观点是否有建设性，还是杞人忧天。GPT 这种断崖式的能力涌现，让人类措手不及，我们一方面像工具一样在使用这种技术，一方面又像在真正面对一个AI 大魔王的雏形。人类一方面意识到问题的存在，但因为无法向未来确认问题，因此另一方面像傻子一样在“囚徒困境”下无可挽回的滑向深渊。在面向未来负责这件事情上，人类确实是傻子，不论是个人还是群体，既缺乏感知能力，也缺乏判断能力，更谈不上行动能力。 
+
+### 5.12
+
+递弱代偿
+
+科技革命的一个结果是，人的体能素质和古人比退化了，但由于工具的使用和环境的改造，人的寿命反而延长了，当然极少部分专事体育的人由于科技力量的加持，体能素质更好了。
+
+AI革命同样如此，极少部分专门研究AI的人智力素质会进一步提高，但由于AI的大量使用，生存压力会进一步降低，人类智力素质的平均值也会降低。 
+
+从抗
+灾变的角度来说，有利于个体生存的技术发展，对于种族的长久延续未必是好事。
+
+```
+- we must never stop failing because the minute we do we’ve failed. And if you quit now, that's in stone!
+- better than dying...
+- There's worse things than dying
+- Hey, You're quick to call us failures. What about you, Ed?
+- Me? I am the chainpion of failures...which is exactly why I can't quit.
+```
+
+-- from [Dungeons and Dragons]
