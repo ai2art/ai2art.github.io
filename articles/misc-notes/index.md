@@ -375,3 +375,21 @@ AI革命同样如此，极少部分专门研究AI的人智力素质会进一步�
 ```
 
 -- from [Dungeons and Dragons]
+
+### danger signal
+
+You feel losing control of your time, hesitating to try, It's a very dangerous signal of losing spirit.
+
+Your mind seems drifting away from the reality more and more often. That's a dangerous signal too. are you becoming a drunk, hiding from reality? Do you rember what you said to yourself? Are you becoming a complete loser?
+
+Yeah, off the line is damn hard. Yeah, the world is tough, and you are weak. Yeah, you are getting old, losing your energy,  you are a joke all the time, you have so many excuses to give up ... so What? does an excuse make you feel better? do you really care about what those mother fuckers think? do anyone really care about you loser? do you really accept everything goes away from you?? If not, go fuck! Fuck everything, Fuck your soft mind!
+
+Just get up, you freak!
+
+
+
+
+
+
+
+
