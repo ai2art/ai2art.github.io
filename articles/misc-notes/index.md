@@ -421,3 +421,30 @@ John Wick 的世界令人向往，因为那是一个遵循规则的“乌托邦�
 AI生成的一个待解决的问题是每个人期待的生成结果不一样。 例如对于一个编程小白，AI需要从1+1开始讲起，但对于一个资深开发者，AI只需要输出净代码就可以。 怎样让AI快速知道用户特征的context（而无需让用户自己去描述），根据这个context 生成最满足这个用户的结果，是一件有价值的事情。
 
 再比如在现实世界，两个人的关系不同，沟通方式也不同，怎样让AI以不同关系生成特定的结果，也是一件有价值的事情。 这种特定关系是否可以用 {instruction, input, output} 的方式来构造训练数据。
+
+4-
+
+对于创业来说，你的意识模式显然存在以下问题：
+
+习惯性地难以思考系统长期性工作，进入状态慢，有拖延心理。 
+做事务性工作拖沓，容易分心。
+没有强烈的目标感和工作中心。
+优先级混乱，做事任性。 总是习惯性做自己想做的事情，哪怕知道优先级有问题。
+
+制定目标的意义在于，人的注意力有限，在具体落地过程中，会出现目标偏离、习惯障碍、失去全局观等问题，因此制定目标要慎重和具体，要么不制定，要制定就要有可落地性，并坚决完成。
+
+
+ 
+5-
+
+军队沟通方式，看着生硬但却是必然选择，因为这种语言需要同时满足：高效、准确、抗干扰、易复制这几个特征。 项目中的也要注意这种特征。 
+
+6 -
+
+For regular people, being disciplined is key to a productive life. For every plan, it demands a result, not an appeasement.
+
+对于创业者，看待很多事物的角度要有一点变化，比如电影、游戏、app等等事物可以看作是其他创业者为人们需要“打发时间”而制作的消费品，而这种消费品对于创业中的人来说本身却是毒品，因为创业者最珍贵的就是时间，你不应该因为沉溺于别人的产品，而削弱自己生产产品的机会和能力。从同样的角度看，对于创业者，大部分互联网资源都是视听污染。
+
+7 -
+
+we are 'monkeys of Shakespeare'. We find coincidences, just because we are sensitive to some more than others, and we choose to believe those coincidences. That is the reason of all superstition.
