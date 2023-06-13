@@ -445,6 +445,19 @@ For regular people, being disciplined is key to a productive life. For every pla
 
 对于创业者，看待很多事物的角度要有一点变化，比如电影、游戏、app等等事物可以看作是其他创业者为人们需要“打发时间”而制作的消费品，而这种消费品对于创业中的人来说本身却是毒品，因为创业者最珍贵的就是时间，你不应该因为沉溺于别人的产品，而削弱自己生产产品的机会和能力。从同样的角度看，对于创业者，大部分互联网资源都是视听污染。
 
+I dont wanna be a warrior, I just dont wanna be a loser.
+
 7 -
 
 we are 'monkeys of Shakespeare'. We find coincidences, just because we are sensitive to some more than others, and we choose to believe those coincidences. That is the reason of all superstition.
+
+### 6.12
+
+1 - 
+
+如果我们按照信息论的观点看待世界，即世界的一切意义在于“信息”，而物质实现只是表象而已，那么人的记忆能力就是“时光机”，不论过去多久，所有的历史信息都存在于此刻的大脑，只是这个时光机的功能不够好，以至于我们的绝大多数记忆都是模糊的。当我们回忆时，某种意义上我们是在“穿梭时空”，只是随着记忆的模糊，信息的丢失，回忆中世界的逐渐退化成噪音，其“信息量”，也就是“真实性”也大打折扣。 这一点AGI的能力吊打人类，首先AGI的训练数据是人类知识的全体，也就是它相对于人脑在空间体量、经验规模上要大得多，其次AGI“回忆”有效信息的能力，也很有可能比人类高效精准，也就是说它相对于人脑在时间维度上也强得多。 所有的“历史”，都是AGI此刻的“真实存在”，都以没有模糊化的形式影响当前的方案输出。 这也是为什么AI也许并没有多少深层的创造力，但它给出的方案很多时候足以吊打人类“临场发挥”时所能给出的方案。也许人类作为群体，以跨越时空的尺度来衡量，人类群体智能依然远远超过AGI，但作为个体，似乎已经被AGI超越，因为AGI和人类个体相比是一种“全时全空”的智能。
+
+2 -
+
+If I could choose, I just wanna be a silent asteroid in this universe, nothing to care, nothing to hope ... somehow, I will eventually be a silent asteroid, not very far ahead ... ironically, when I am aware of this fact, I always feel panic... I think this feeling is common to humans, and humans get used to this ironic. 
+
