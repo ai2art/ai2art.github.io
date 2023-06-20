@@ -459,5 +459,8 @@ we are 'monkeys of Shakespeare'. We find coincidences, just because we are sensi
 
 2 -
 
-If I could choose, I just wanna be a silent asteroid in this universe, nothing to care, nothing to hope ... somehow, I will eventually be a silent asteroid, not very far ahead ... ironically, when I am aware of this fact, I always feel panic... I think this feeling is common to humans, and humans get used to this ironic. 
+If I could choose, I just wanna be a silent asteroid in this universe, nothing to care, nothing to hope ... somehow, I will eventually be a silent asteroid, not very far ahead ... ironically, when I am aware of this fact, I always feel panic... I think this feeling is common to humans, and humans get used to this ironic.
 
+3 - 
+
+学会放松和学会工作一样重要，做一个彻底的实用主义者，用脑子做事，而不是任情绪泛滥。 如果连情绪都管理不好，怎么去管理任务。 如果连自己都照顾不好，怎么去照顾别人。 
