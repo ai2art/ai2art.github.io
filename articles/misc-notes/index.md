@@ -464,3 +464,24 @@ If I could choose, I just wanna be a silent asteroid in this universe, nothing t
 3 - 
 
 学会放松和学会工作一样重要，做一个彻底的实用主义者，用脑子做事，而不是任情绪泛滥。 如果连情绪都管理不好，怎么去管理任务。 如果连自己都照顾不好，怎么去照顾别人。 
+
+
+4 -
+
+ 当一个人被打趴下的时候，是不会认为已经被打趴下了，他会有一百种理由解释自己的处境，但事实只有一个，他被打趴下了。 在职场时，我们抱怨没有free time，在创业时我们抱怨没有人告诉我们该怎么做。 这种抱怨也许错误，也许正当，但这本身不重要，因为抱怨解决不了任何问题。 如果自身不够坚定，我们总有很多理由解释自己的处境。 
+
+
+5 - 
+
+You are born with a ticket just like most ordinary people. Not too good, not too bad. Life is not fair, but complaint can not make anything good.  Make best use of what you can get to flourish. If you are lucky enough, eveything would get better. If not, nothing to regret.
+
+
+6 - 
+
+从信息论的角度看，我们每个人不过是行走的模型而已。 小时候，我们在经历 supervised learning，好处是如果一个人被喂养的数据足够好，他可以事半功倍成为更加优秀的人，但坏处是如果他出生在普通家庭，显然各方面能力都会差一些。  同样，长大了我们在经历 unsupervised learning，好处是如果一个人以前被喂养的数据太垃圾，他终于可以“拔管”了，去寻找更有营养的信息重塑自己的模型。坏处是，如果一个人没有较强的鉴别能力，“自监督”能力，不会再有任何机制帮他过滤掉垃圾信息。  
+
+7 -
+
+沟通要温和，但心态要坚定。
+
+
