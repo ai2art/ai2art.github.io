@@ -514,3 +514,7 @@ AI作为效率工具的红利，正是因为它能在很大程序下解决目前
 2- 
 
 字节的产品能力是令人敬畏的，一个产品只有做透才能发挥价值，这中间有一个阈值，这些阈值用一组核心的功能点做为指标，少了一个功能点都不叫做透，而如果没有做透，产品的价值就会极具减少。自动化也一样，只有达到某种程度的一元化，才有价值。
+
+3-
+
+Rest is totally different from Entertainment. Rest clears your mind, entmt disturbs your mind.
