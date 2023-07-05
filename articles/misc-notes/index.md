@@ -541,4 +541,4 @@ Rest is totally different from Entertainment. Rest clears your mind, entmt distu
 
 1- 
 
-“死亡是个必然会降临的节日” 这句话大概是我听过最丧也最励志的话了。 比起死亡，“从没真正活过”才更应该被恐惧吧。  
+“死亡是个必然会降临的节日” 这句话大概是我听过最丧也最励志的话了。 比起死亡，“从没真正活过”才更应该被恐惧吧。
