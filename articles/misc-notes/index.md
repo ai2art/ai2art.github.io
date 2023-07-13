@@ -571,9 +571,6 @@ You know, I've been thinking, this 'love' thing? It's like some wacky psychedeli
 ```
 This is what AI 'think' about love. Basically, I think he is right...
 
-6-
-
-每天抽1小时练习表达能力，打起精神来，不能吃哑巴亏。 不要对余生抱任何指望，但没躺下就接着折腾吧。
 
 7-
 
