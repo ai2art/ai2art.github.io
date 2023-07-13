@@ -575,5 +575,10 @@ This is what AI 'think' about love. Basically, I think he is right...
 
 每天抽1小时练习表达能力，打起精神来，不能吃哑巴亏。 不要对余生抱任何指望，但没躺下就接着折腾吧。
 
+7-
 
+ If you really care her, what you should do if she is watching you? 
 
+ Stop bullshit, if you really think you should forget, just forget her. if you really think time flies away, just catch up.
+
+Fuck off the hallucination, dont act like a loser, are you?
