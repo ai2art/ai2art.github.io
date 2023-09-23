@@ -815,17 +815,3 @@ VIM 作者离世，“你可能不认识这个人，但你一定用过他的作�
 其实你仔细想想，什么是终极的自由，其实终极的自由，不恰是“虚无、死亡”吗，你想要的是这些吗，显然不是。“死亡是一件不必急于求成的事”，同样“自由也是一件不必急于求成的事”，你想要的自由一点也不抽象，而是一种非常具体而临时的世俗状态。 
 
 maybe this delayed infection means to put an end to your depression, you need to make some noise rather than meditating. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
