@@ -810,8 +810,14 @@ VIM 作者离世，“你可能不认识这个人，但你一定用过他的作�
 
 9.23 
 
+1- 
+
 生病的一个好处是可以有理由停下来，想想你平时没兴趣多想的话题。
 
 其实你仔细想想，什么是终极的自由，其实终极的自由，不恰是“虚无、死亡”吗，你想要的是这些吗，显然不是。“死亡是一件不必急于求成的事”，同样“自由也是一件不必急于求成的事”，你想要的自由一点也不抽象，而是一种非常具体而临时的世俗状态。 
 
 maybe this delayed infection means to put an end to your depression, you need to make some noise rather than meditating. 
+
+2-
+
+I dreamed many trivial things in my gloomy room, I dreamed lots of strangers visiting me, I dreamed fruits rotten on the tree beyond my window, I dreamed a beautiful landscape beyond the tree, and I dreamed I was murmuring what is the meaning of the beautiful scene if you are not here...
