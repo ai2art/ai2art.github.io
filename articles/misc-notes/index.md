@@ -821,3 +821,9 @@ maybe this delayed infection means to put an end to your depression, you need to
 2-
 
 I dreamed many trivial things in my gloomy room, I dreamed lots of strangers visiting me, I dreamed fruits rotten on the tree beyond my window, I dreamed a beautiful landscape beyond the tree, and I dreamed I was murmuring what is the meaning of the beautiful scene if you are not here...
+
+10.8
+
+1-
+
+很久以前读过一个禅宗故事说是扫地僧修行前后的唯一区别是，修行前是“砍柴时想着挑水，挑水时想着砍柴”，修行后是“砍柴时砍柴，挑水时挑水”…… 虽然这个故事印象清晰，但却体感不够，现在体会更加深刻了。 我想要做到这种“心随境转”，大约需要两个条件，第一是要“把心脏放回自己的胸膛”，一切心念从“我”出发，才能廓清主客，理清心念。 第二是要“把自己放进尘埃”，只有把自己也能放下，才能驾驭自己的心念。 这不是参禅修玄，而是一种实用的能力，一种解放心力的能力。
