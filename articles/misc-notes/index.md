@@ -834,11 +834,26 @@ I dreamed many trivial things in my gloomy room, I dreamed lots of strangers vis
 
 Think carefully about the intent and the outcome, for example, some people may naively assume Tiktok can improve time values by making good use of their fragmented time, but the actual outcome is that Tiktok often fragmentize their continuous time, decreasing time values. Reading during fragmented time may indeed not be a pleasant experience, but the actual result is maximizing the integration of fragmented time, thus increasing time values.
 
-
 2-
 
 Many things can be understood using programming concepts, for example:
 
-The use of  agents in LLM can be seen as a way of organizing prompts, where different agents reflect different "goals" in the prompt, similar to use object-oriented programming (OOP) to refactor code.
+The use of agents in LLM can be seen as a way of organizing prompts, where different agents reflect different "goals" in the prompt, similar to use object-oriented programming (OOP) to refactor code.
 
 The relationship between government taxing and the free market can be seen as a design of resource flow (similar to the data flow in flux, where money is equivalent to action).
+
+10.29
+
+1- 
+
+人们喜欢短视频，人们在缺少目标感时倾向于碎片化自己的时间，这符合熵增原理。就像人们喜玩游戏一样，怎样理解游戏的成瘾性？可能游戏在大脑中的运转模式和人类在现实生活中的运转模式是趋近的，大脑喜欢目标感、喜欢奖惩的反馈机制。本质上生活也是一场游戏，每个人都是其中的NPC，只不过这场游戏太冗长，游戏的奖惩时间密度和目标定义的清晰性都远不如电子游戏，因此人们更喜欢“碎片化”的人造游戏，并且越是碎片化的游戏（“小游戏”）可能越容易上瘾，这也像是熵增原理的投影。 
+
+一切致瘾的事物，最可怕的地方在于目标看似可以达成，但其实永远无法达成，（就像小游戏中永无完结的伪目标），或者说无法饱和，因此会像一个黑洞吸走所有的精力。玩电子游戏上瘾的人，都像一头驴嘴前挂着一捆永远够不到的稻草。 
+
+对于致瘾的事物，单纯的说教和堵截是没有用的，要和自己“原始人”的大脑周旋，要用庄稼占领原本应该杂草丛生的野地。
+
+2- 
+
+当你玩游戏感到“放不下手”的时候，你就可以管窥“放下屠刀，立地成佛”的含义，不是说“放下屠刀”功德有多高，而是说“放下屠刀”有多难。 原本是“成佛才能放刀”更接近事实，但反过来说才似乎更实用一些。
+
+
