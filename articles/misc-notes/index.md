@@ -862,3 +862,17 @@ The relationship between government taxing and the free market can be seen as a 
 1-
 
 那些经常莫名奇妙闯进你梦里的，我不知道是否重要，但那些可以随口谈及，轻松拿捏的都不会是真正重要的。就像一个潘多拉的盒子锁在海底，被锁进盒子里像是偏执或幼稚，但你并不能准确描述那是什么，那是被理性放逐的角落，那是无处安放的疯狂。你不敢打开，打开将是惊涛骇浪，你也不愿丢弃（事实上是你无法丢弃）丢弃了仿佛是背叛了自己的灵魂，就连提起都像是冒犯。
+
+12.14
+
+1-
+
+认清自己的局限性，your time is limited，your energy is limited，your attention is limited，your IQ is limited，thus you need diligence，you need rest, you need focus，you need patience, and you need to be happy.
+
+2-
+
+In any situation, humor is both a healthy state and a good strategy.
+
+3-
+
+不论心里多少事，拿得起放得下，沾枕头就睡，坚定地执行理性原则。
