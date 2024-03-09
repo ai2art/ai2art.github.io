@@ -937,3 +937,9 @@ In any situation, humor is both a healthy state and a good strategy.
 3.5
 
 有时候，我们花费了很多精力去做一件事情，但反思下来好像没有多少意义，于是我们只好像登山者一样自我解嘲说：“嗯，因为山就在那里呀”
+
+3.9
+
+一个comfyui 插件的构思：
+
+![node-ui](asset/node-ui.png)
