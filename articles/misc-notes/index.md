@@ -942,4 +942,4 @@ In any situation, humor is both a healthy state and a good strategy.
 
 一个comfyui 插件的构思：
 
-![node-ui](asset/node-ui.png)
+![node-ui](assets/node-ui.png)
