@@ -948,3 +948,10 @@ In any situation, humor is both a healthy state and a good strategy.
 3.12
 
 “我每天只有看着这晚霞，才能坚持西行”， 书中的桥段总很美，但现实中，也许只有不看这晚霞才能坚持西行吧。
+
+3.14
+
+一个composer算法的构思：
+
+![cut](assets/cut.png)
+
