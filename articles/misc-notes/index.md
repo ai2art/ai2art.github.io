@@ -1107,7 +1107,10 @@ I am living in two time scales.
 
 年少的时候,我们看不到一个东西叫做"制度", 不是说不遵守制度,而是说我们习惯性遵守制度,但却对制度视而不见. 制度的存在越早认清越好, 甚至也许可以将是否能看清制度存在,作为一个人是否成熟的标志. 只有越早看清,才能够越早规划自己的人生, 要么做创造制度的人, 要么做遵守制度的人. 人是社会性的, 制度决定着每个人的存在和发展. 以文凭为例,单从知识来说, 人完全不必要系统性读那么多年书, 也许高中水平已经绰绰有余, "吾生也有涯而知也无涯 。 以有涯随无涯殆已" . "读书是为了混一个文凭"人们常嗤之以鼻, 但"读书"的主要意义就是"文凭", 就是为了那个制度中"文凭"代表的"生态位", 如果放弃"文凭"或者相关的"生态位", 那么在象牙塔中待那么久确实毫无意虚度光阴. 怎么说呢, 我想顽劣如你的人必须历经社会的毒打,才能认清这些.
 
+7.24
 
+1-
 
+You don't know why you are obsessed with someone or something, since you can't really be an outsider to oberve yourself or the world. But, the ultimate task of the life-game is to refine your cloudy soul, steel your soft mind, this is very personal, and has nothing to do with anyone, anything or any situations.
 
 
