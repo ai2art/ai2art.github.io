@@ -1126,4 +1126,4 @@ You don't know why you are obsessed with someone or something, since you can't r
 
 1-
 
-渐渐能够体会为什么《剑雨》中有个杀手那么爱做面条了，大概和我有点迷上改造家居的情景是相似的吧。
+渐渐能够体会为什么《剑雨》中有个杀手那么爱研究煮面条了，大概和我有点迷上改造家居的情景是相似的吧，简单而清晰的任务中有一种莫名的治愈感。 人的本质或许真的就是Zima blue中的那个小机器人吧.
