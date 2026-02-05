@@ -1213,3 +1213,8 @@ You don't know why you are obsessed with someone or something, since you can't r
 01.23
 
 这是一个技术复兴的伟大时代，如果在这个时代不能做一些有趣的事情，那才真的遗憾。放下过往，停止内耗，努力在这个世界留下一些痕迹。 “For quality of life, it is better to err on the side of being an optimist and wrong, rather than a pessimist and right.”
+
+
+02.01
+
+除了蹦极或是去看牙医时，我们常常忘了自己只是血肉之躯而已。 躺在治疗椅上，忐忑之余，忽然有个想法浮现于脑中，或许这世上从没有英雄，只有那些被逼到绝境时咬碎牙也不肯求饶的凡夫。或许也从没有伟人，而只有那些笃信理想疲惫不堪时也坚忍克制的痴人。
